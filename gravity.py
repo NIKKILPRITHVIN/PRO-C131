@@ -55,3 +55,4 @@ for index,data in enumerate(star_names):
     star_gravities.append(gravity)
 
 print(star_gravities)
+#By R.R Nikkil Prithvin
